@@ -1,0 +1,13 @@
+@import url('styles/header.css');
+
+:root {
+    --cor-de-fundo:#EBECEE;
+    --branco: #FFFFFF;
+
+}
+
+boby {
+    background-color: var(--cor-de-fundo);
+}
+
+
